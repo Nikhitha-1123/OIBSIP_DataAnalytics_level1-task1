@@ -1,4 +1,4 @@
-# PROJECT1 : 🛍️ Exploratory Data Analysis on Retail Sales
+# PROJECT : 🛍️ Exploratory Data Analysis on Retail Sales
 
 > ✅ Level 1- Task 1
 
